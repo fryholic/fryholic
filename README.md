@@ -10,3 +10,5 @@
 fryholic/fryholic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### NowPlaying...
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315i7qxc2tqfghwenstzsryqc5j4&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=315i7qxc2tqfghwenstzsryqc5j4&redirect=true)
