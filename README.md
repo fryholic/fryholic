@@ -18,9 +18,3 @@
 fryholic/fryholic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### NowPlaying...
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315i7qxc2tqfghwenstzsryqc5j4&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=315i7qxc2tqfghwenstzsryqc5j4&redirect=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fryholic)](https://github.com/anuraghazra/github-readme-stats)
