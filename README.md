@@ -14,6 +14,10 @@
   
   [![fryholic@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fryholic@gmail.com)
 
+---
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mizoretoaoitori)](https://solved.ac/mizoretoaoitori/)
+
 <!---
 fryholic/fryholic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
