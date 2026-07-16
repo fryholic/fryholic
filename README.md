@@ -92,6 +92,10 @@
 
 <br/><br/>
 
+<img width="49%" src="https://raw.githubusercontent.com/fryholic/fryholic/main/cards/ai-usage-half-grass.svg" alt="AI usage" />
+
+<br/><br/>
+
 <h3>📫 Contact</h3>
 <a href="mailto:fryholic@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
